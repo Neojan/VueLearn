@@ -4,6 +4,6 @@ $(
 function()
 {
     console.log("testaadadf")
-    $('li:odd').css('background-color','blue')
+    $('li:odd').css('background-color','black')
     $('li:even').css('background-color','pink')
 })
